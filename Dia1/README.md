@@ -1,0 +1,1 @@
+ **Objetivo:** Trabalhar com o dataset do portal do **CEAPS** (Cota para Exercício da Atividade Parlamentar dos Senadores) e aplicar **processos de tratamento e limpeza de dados** nele (processo conhecido como **Data Wrangling**).
